@@ -14,6 +14,8 @@ BTC Ticker will be a web app that displays the current price of Bitcoin and othe
 * Upon approval of a *Pull Request* I will post another **Issue** with new customer needs.
 * Each **Issue** will come with a **deadline** for the work to be approved
 
+**If you have any questions or remarks, then please post a comment on the issue at hand**
+
 ## Technology stack
 * React
 * Latest Javascript
