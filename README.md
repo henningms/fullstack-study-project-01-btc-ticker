@@ -19,3 +19,7 @@ BTC Ticker will be a web app that displays the current price of Bitcoin and othe
 * Latest Javascript
 * Git
 * Visual Studio Code
+
+## Assignments
+
+01: [Getting started](https://github.com/henningms/fullstack-study-project-01-btc-ticker/issues/1)
